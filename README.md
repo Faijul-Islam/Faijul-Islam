@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working as a **Flutter Developer @ Digital Intelligence System Ltd**
 
-- 💬 Ask me about **Next.js, React.js, TypeScript, JavaScript, React Hook Query, Formik Validation, RC-table, Tanstack-table, Tailwind CSS, Bootstrap, SASS**
+- 💬 Ask me about **Flutter, Dart, TypeScript, JavaScript, React Hook Query, Formik Validation, RC-table, Tanstack-table, Tailwind CSS, Bootstrap, SASS**
 
 - 📫 How to reach me **faizulazim199@gmail.com**
 
